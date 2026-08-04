@@ -8,8 +8,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // NOTE: flip to the custom domain with deploy-custom-domain.ps1 once the
-  // DNS CNAME (docs -> emrahsinekli.github.io) exists.
-  url: process.env.DOCS_CUSTOM_DOMAIN ? 'https://docs.autorepai.com' : 'https://emrahsinekli.github.io',
+  // DNS CNAME (doc -> emrahsinekli.github.io) exists.
+  url: process.env.DOCS_CUSTOM_DOMAIN ? 'https://doc.autorepai.com' : 'https://emrahsinekli.github.io',
   baseUrl: process.env.DOCS_CUSTOM_DOMAIN ? '/' : '/autorepai-docs/',
   trailingSlash: false,
 
