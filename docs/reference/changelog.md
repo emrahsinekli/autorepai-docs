@@ -1,6 +1,6 @@
 ---
 title: Changelog
-description: Auto RepAI release history — what's new in each version.
+description: AISiteVolt release history — what's new in each version.
 ---
 
 # Changelog
@@ -43,4 +43,4 @@ The full, always-current changelog lives on the [WordPress.org plugin page](http
 
 ## 2.5.x
 
-- Initial WordPress.org release line: content generation, image generation, Auto Repair, Quick AI Edit, AI Visibility (GEO) + llms.txt, WooCommerce & alt-text scanners, Bulk Content, chatbot (Pro), importers (Pro), Workflow Studio (Pro), Lead Management (Pro), and the full security/GDPR baseline.
+- Initial WordPress.org release line: content generation, image generation, Content Repair, Quick AI Edit, AI Visibility (GEO) + llms.txt, WooCommerce & alt-text scanners, Bulk Content, chatbot (Pro), importers (Pro), Workflow Studio (Pro), Lead Management (Pro), and the full security/GDPR baseline.

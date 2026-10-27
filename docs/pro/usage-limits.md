@@ -25,7 +25,7 @@ Batch triggers (Bulk Content, Repair All, Automations run-now, autopilot enablin
 
 ## Event webhooks
 
-Set a **webhook URL** (Zapier / Make / n8n compatible) and Auto RepAI POSTs JSON on:
+Set a **webhook URL** (Zapier / Make / n8n compatible) and AISiteVolt POSTs JSON on:
 `content_generated`, `form_submitted`, `automation_item_completed`.
 Use it to notify Slack, append to a content-calendar sheet, or trigger downstream publishing steps. A separate **Slack webhook** field posts AI Form submissions directly to a channel.
 

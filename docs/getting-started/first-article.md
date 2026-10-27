@@ -1,6 +1,6 @@
 ---
 title: Your first AI article
-description: A 5-minute walkthrough — generate a blog post with Auto RepAI's Content Generator, review it, add a featured image and publish.
+description: A 5-minute walkthrough — generate a blog post with AISiteVolt's Content Generator, review it, add a featured image and publish.
 ---
 
 # Your first AI article
@@ -9,7 +9,7 @@ This walkthrough takes you from an empty site to a published, SEO-ready post in 
 
 ## 1. Open the Content Generator
 
-Go to **Auto RepAI → Content Generator**.
+Go to **AISiteVolt → Content Generator**.
 
 ## 2. Describe the article
 
@@ -36,6 +36,6 @@ Hit **Publish** in the editor. Done — your first AI-assisted article is live.
 
 ## Where to go next
 
-- Fix your **existing** posts with [Auto Repair](/content-tools/auto-repair) — that's where Auto RepAI really differs from generator-only plugins.
+- Fix your **existing** posts with [Content Repair](/content-tools/auto-repair) — that's where AISiteVolt really differs from generator-only plugins.
 - Score the new post for AI-search citability with [AI Visibility](/seo-geo/ai-visibility).
 - Producing at scale? [Bulk Content](/content-tools/bulk-content) turns a topic list into a queue of drafts.

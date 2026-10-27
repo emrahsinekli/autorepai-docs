@@ -9,11 +9,11 @@ Three Pro tools that measure instead of write.
 
 ## SEO Analyzer
 
-**Auto RepAI → SEO Analyzer** runs an AI audit on any post:
+**AISiteVolt → SEO Analyzer** runs an AI audit on any post:
 
 1. Pick a post (and optionally a focus keyword).
 2. The AI evaluates title, structure, keyword usage, readability, meta and internal linking.
-3. You get a scored report with **actionable recommendations** — fix them by hand or send the post through [Auto Repair](/content-tools/auto-repair).
+3. You get a scored report with **actionable recommendations** — fix them by hand or send the post through [Content Repair](/content-tools/auto-repair).
 
 Use it on your money pages first; a deduplicated issue list keeps the report tight.
 
@@ -22,7 +22,7 @@ Use it on your money pages first; a deduplicated issue list keeps the report tig
 Tracks what Reddit says about the terms you care about (your brand, your product category, competitors):
 
 1. Configure the terms and check frequency.
-2. Auto RepAI searches Reddit and keeps a history of mentions with links.
+2. AISiteVolt searches Reddit and keeps a history of mentions with links.
 3. Jump into relevant threads while they're still warm — authentic community answers beat ads.
 
 Add free [Reddit app credentials](/pro/providers#reddit-credentials) for reliable results from server IPs.

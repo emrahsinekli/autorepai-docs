@@ -5,11 +5,11 @@ description: Build multi-step content pipelines — research, write, image, publ
 
 # Workflow Studio <span className="badge badge--pro">PRO</span>
 
-Workflow Studio chains Auto RepAI's capabilities into **repeatable pipelines**.
+Workflow Studio chains AISiteVolt's capabilities into **repeatable pipelines**.
 
 ## How it works
 
-1. Go to **Auto RepAI → Workflow Studio**.
+1. Go to **AISiteVolt → Workflow Studio**.
 2. Compose steps — e.g. *research a topic → draft the article → generate a featured image → create the post*.
 3. **Save** the workflow with a name; your saved workflows are listed for one-click re-runs.
 4. **Execute** — steps run in order, passing their output forward; the result can be published or saved as a draft for review.

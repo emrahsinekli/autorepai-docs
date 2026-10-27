@@ -11,7 +11,7 @@ Internal links are the cheapest SEO you're not doing. The Internal Linker finds 
 ![The Internal Linker with the applied-links archive](/img/screenshots/internal-linker.png)
 ## Manual flow
 
-1. Go to **Auto RepAI → Internal Linker**.
+1. Go to **AISiteVolt → Internal Linker**.
 2. Select the posts to scan and the AI model, then click **AI Scan for Links**.
 3. Review the suggestions: each shows the **source post**, the proposed **anchor text** (real text already in the post) and the **target post**, with context.
 4. **Apply** the ones you like (or dismiss). The link is inserted exactly at the anchor — the post's wording doesn't change. Already-linked text is never double-linked.

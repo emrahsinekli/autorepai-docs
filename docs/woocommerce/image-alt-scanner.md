@@ -9,7 +9,7 @@ Images without alt text hurt three things at once: **accessibility** (screen rea
 
 ## Scan (free)
 
-1. Go to **Auto RepAI → WooCommerce AI** and find the **Image alt text repair** card (it scans your whole media library — not just product images).
+1. Go to **AISiteVolt → WooCommerce AI** and find the **Image alt text repair** card (it scans your whole media library — not just product images).
 2. Click **Scan Images**: you'll see every image missing alt text, with thumbnails.
 
 ## Write alt text with AI <span className="badge badge--pro">PRO</span>

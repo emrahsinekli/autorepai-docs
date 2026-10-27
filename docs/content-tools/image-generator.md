@@ -5,7 +5,7 @@ description: Create featured images and illustrations with GPT Image — styles,
 
 # AI Image Generator <span className="badge badge--free">FREE</span>
 
-**Auto RepAI → Image Generator** turns a text prompt into ready-to-use images and saves them straight into your media library.
+**AISiteVolt → Image Generator** turns a text prompt into ready-to-use images and saves them straight into your media library.
 
 
 ![The AI Image Generator screen](/img/screenshots/image-generator.png)

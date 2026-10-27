@@ -1,11 +1,15 @@
 ---
 title: Connect your API keys
-description: Get an OpenAI API key, add it to Auto RepAI, test the connection, and understand costs. Pro users can also connect Claude, Gemini, OpenRouter, DeepSeek, Stability, Replicate and Leonardo.
+description: Get an OpenAI API key, add it to AISiteVolt, test the connection, and understand costs. Pro users can also connect Claude, Gemini, OpenRouter, DeepSeek, Stability, Replicate and Leonardo.
 ---
 
 # Connect your API keys
 
-Auto RepAI is a **bring-your-own-key (BYOK)** plugin: every AI call goes directly from your server to the provider, billed to your own account. The free plugin works with **OpenAI**; [Pro](/pro/providers) adds seven more providers.
+AISiteVolt is a **bring-your-own-key (BYOK)** plugin: every AI call goes directly from your server to the provider, billed to your own account. The free plugin works with **OpenAI**; [Pro](/pro/providers) adds seven more providers.
+
+:::tip No key at all?
+AISiteVolt can also use a model running on your own machine — see [Run AI locally](/getting-started/local-ai). No key, no bill, nothing leaves your server.
+:::
 
 ## Step 1 — Create an OpenAI API key
 
@@ -14,9 +18,9 @@ Auto RepAI is a **bring-your-own-key (BYOK)** plugin: every AI call goes directl
 3. Copy the key — it starts with `sk-` and is shown only once.
 4. Add a small amount of credit under **Billing** (a few dollars goes a long way: a full blog post typically costs a few cents).
 
-## Step 2 — Add the key to Auto RepAI
+## Step 2 — Add the key to AISiteVolt
 
-1. In WordPress, go to **Auto RepAI → Settings → API Keys**.
+1. In WordPress, go to **AISiteVolt → Settings → API Keys**.
 2. Paste the key into the **OpenAI API Key** field.
 3. Click **Save Settings**.
 

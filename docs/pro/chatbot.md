@@ -11,7 +11,7 @@ The Pro chatbot answers visitors **from your own content**, captures leads, open
 ![Chatbot administration](/img/screenshots/chatbot.png)
 ## Set it up
 
-1. Go to **Auto RepAI → AI Chatbot → Settings**.
+1. Go to **AISiteVolt → AI Chatbot → Settings**.
 2. Write the bot's **role and rules** (system prompt), pick the provider/model, set the welcome message and widget colors/position.
 3. Fill your [Knowledge Base](/pro/knowledge-base) — the bot grounds every answer in it and **refuses to invent** prices, policies or shipping details it doesn't know.
 4. Enable the widget site-wide, or embed it inline on a page with the chat shortcode.

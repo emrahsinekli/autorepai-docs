@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting
-description: Fix the most common Auto RepAI issues — API connection errors, empty generations, missing menu items, slow responses, chatbot problems and importer quirks.
+description: Fix the most common AISiteVolt issues — API connection errors, empty generations, missing menu items, slow responses, chatbot problems and importer quirks.
 ---
 
 # Troubleshooting
@@ -27,9 +27,9 @@ description: Fix the most common Auto RepAI issues — API connection errors, em
 
 ## Interface problems
 
-**No Auto RepAI menu** — the plugin is network-installed but not activated on this site, or your role lacks access (most screens need editor/admin capabilities).
+**No AISiteVolt menu** — the plugin is network-installed but not activated on this site, or your role lacks access (most screens need editor/admin capabilities).
 
-**A button does nothing** — check the browser console for a JavaScript conflict from another plugin; test with other plugins temporarily disabled. Auto RepAI loads its scripts only on its own screens, so conflicts are rare.
+**A button does nothing** — check the browser console for a JavaScript conflict from another plugin; test with other plugins temporarily disabled. AISiteVolt loads its scripts only on its own screens, so conflicts are rare.
 
 ## Chatbot (Pro)
 
@@ -45,4 +45,4 @@ description: Fix the most common Auto RepAI issues — API connection errors, em
 
 ## Still stuck?
 
-Email **support@autorepai.com** with: your WordPress + PHP versions, the tool and exact action, and the error text. Screenshots help enormously.
+Email **support@aisitevolt.com** with: your WordPress + PHP versions, the tool and exact action, and the error text. Screenshots help enormously.

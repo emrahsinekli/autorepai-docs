@@ -11,7 +11,7 @@ AI Forms lets you publish **interactive AI tools** on your site: a visitor fills
 ![The AI Forms builder](/img/screenshots/ai-forms.png)
 ## Create a form
 
-Three ways, on **Auto RepAI → AI Forms**:
+Three ways, on **AISiteVolt → AI Forms**:
 
 1. **Describe it** — *"a tool that estimates kitchen renovation cost from size and quality level"* → the AI designs the fields and prompt for you (Prompt-to-Form).
 2. **Start from a template** — support helper, price estimator, content brief, product recommender, image analysis.

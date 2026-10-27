@@ -3,13 +3,13 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Auto RepAI Documentation',
+  title: 'AISiteVolt Documentation',
   tagline: 'AI content generation & repair for WordPress — guides, tutorials and reference',
   favicon: 'img/favicon.ico',
 
   // NOTE: flip to the custom domain with deploy-custom-domain.ps1 once the
   // DNS CNAME (doc -> emrahsinekli.github.io) exists.
-  url: process.env.DOCS_CUSTOM_DOMAIN ? 'https://doc.autorepai.com' : 'https://emrahsinekli.github.io',
+  url: process.env.DOCS_CUSTOM_DOMAIN ? 'https://doc.aisitevolt.com' : 'https://emrahsinekli.github.io',
   baseUrl: process.env.DOCS_CUSTOM_DOMAIN ? '/' : '/autorepai-docs/',
   trailingSlash: false,
 
@@ -67,7 +67,7 @@ const config = {
     ({
       image: 'img/social-card.png',
       metadata: [
-        {name: 'keywords', content: 'Auto RepAI, WordPress AI plugin, AI content generator, GEO, AI visibility, WooCommerce AI, accessibility repair, documentation'},
+        {name: 'keywords', content: 'AISiteVolt, WordPress AI plugin, AI content generator, GEO, AI visibility, WooCommerce AI, accessibility repair, documentation'},
         {name: 'robots', content: 'index, follow'},
       ],
       colorMode: {
@@ -76,9 +76,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Auto RepAI',
+        title: 'AISiteVolt',
         logo: {
-          alt: 'Auto RepAI logo',
+          alt: 'AISiteVolt logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -88,7 +88,7 @@ const config = {
           {type: 'doc', docId: 'reference/faq', position: 'left', label: 'FAQ'},
           {type: 'doc', docId: 'reference/changelog', position: 'left', label: 'Changelog'},
           {href: 'https://wordpress.org/plugins/auto-repai-ai-content-generator/', label: 'Download', position: 'right'},
-          {href: 'https://autorepai.com', label: 'autorepai.com', position: 'right'},
+          {href: 'https://aisitevolt.com', label: 'aisitevolt.com', position: 'right'},
         ],
       },
       footer: {
@@ -107,7 +107,7 @@ const config = {
             title: 'Popular guides',
             items: [
               {label: 'AI Visibility (GEO)', to: '/seo-geo/ai-visibility'},
-              {label: 'Auto Repair', to: '/content-tools/auto-repair'},
+              {label: 'Content Repair', to: '/content-tools/auto-repair'},
               {label: 'WooCommerce AI', to: '/woocommerce/product-scanner'},
               {label: 'Health Report', to: '/content-tools/health-report'},
             ],
@@ -116,20 +116,20 @@ const config = {
             title: 'Product',
             items: [
               {label: 'Download free plugin', href: 'https://wordpress.org/plugins/auto-repai-ai-content-generator/'},
-              {label: 'Auto RepAI Pro', to: '/pro/overview'},
+              {label: 'AISiteVolt Pro', to: '/pro/overview'},
               {label: 'Changelog', to: '/reference/changelog'},
             ],
           },
           {
             title: 'Company',
             items: [
-              {label: 'Website', href: 'https://autorepai.com'},
-              {label: 'Support', href: 'mailto:support@autorepai.com'},
+              {label: 'Website', href: 'https://aisitevolt.com'},
+              {label: 'Support', href: 'mailto:support@aisitevolt.com'},
               {label: 'Privacy & external services', to: '/reference/external-services'},
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Auto RepAI. Built with your own API key — your content never passes through our servers.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AISiteVolt. Built with your own API key — your content never passes through our servers.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -9,7 +9,7 @@ Autopilots are the "system, not a tool" part of Pro: small scheduled runs that k
 
 ## AI Visibility (GEO) autopilot
 
-On **Auto RepAI → AI Visibility**:
+On **AISiteVolt → AI Visibility**:
 
 1. Enable the autopilot; choose **daily / twice daily / weekly**.
 2. Set **posts per run** (1–10) and the **score threshold** (fix posts scoring below it).
@@ -21,11 +21,11 @@ Tick **"Email me a weekly GEO report"** to get the site average, the five weakes
 
 ## Accessibility autopilot
 
-On **Auto RepAI → Accessibility Repair**: same pattern — frequency, posts per run, threshold — repairing alt text, link text, heading order and table headers on your least accessible content. See [Accessibility](/accessibility/accessibility-scanner).
+On **AISiteVolt → Accessibility Repair**: same pattern — frequency, posts per run, threshold — repairing alt text, link text, heading order and table headers on your least accessible content. See [Accessibility](/accessibility/accessibility-scanner).
 
 ## WooCommerce catalog autopilot
 
-On **Auto RepAI → WooCommerce AI**: rewrites thin product copy daily or weekly, skipping healthy and recently repaired products. See [WooCommerce AI](/woocommerce/product-scanner#catalog-autopilot-pro).
+On **AISiteVolt → WooCommerce AI**: rewrites thin product copy daily or weekly, skipping healthy and recently repaired products. See [WooCommerce AI](/woocommerce/product-scanner#catalog-autopilot-pro).
 
 ## GEO trend recording
 

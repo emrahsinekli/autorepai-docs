@@ -1,15 +1,15 @@
 ---
-title: Auto RepAI Pro overview
-description: What Auto RepAI Professional adds — autopilots, AI chatbot with Knowledge Base, Automations, AI Forms, white-label reports, 7 more AI providers — with a 7-day free trial.
+title: AISiteVolt Pro overview
+description: What AISiteVolt Professional adds — autopilots, AI chatbot with Knowledge Base, Automations, AI Forms, white-label reports, 7 more AI providers — with a 7-day free trial.
 ---
 
-# Auto RepAI Pro <span className="badge badge--pro">PRO</span>
+# AISiteVolt Pro <span className="badge badge--pro">PRO</span>
 
 The free plugin is a complete toolkit. **Pro turns it into a system that works for you** — repairing, publishing, answering and reporting on a schedule, while you keep full control of costs.
 
 ## Start a 7-day free trial
 
-1. In WordPress, open **Auto RepAI → Pro Features** (or **Upgrade**).
+1. In WordPress, open **AISiteVolt → Pro Features** (or **Upgrade**).
 2. Start the **7-day free trial** — no credit card required.
 3. The Professional build installs as an in-place upgrade (same menu, same settings). Cancel any time; your free plugin keeps working exactly as before.
 

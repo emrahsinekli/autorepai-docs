@@ -5,13 +5,13 @@ description: Score every post for AI-search citability — direct answers, FAQs,
 
 # AI Visibility (GEO) <span className="badge badge--free">FREE</span>
 
-People increasingly ask **ChatGPT, Perplexity and Gemini** instead of searching. Generative Engine Optimization (GEO) is about making your content *quotable* by those AI answers. Auto RepAI scores exactly that.
+People increasingly ask **ChatGPT, Perplexity and Gemini** instead of searching. Generative Engine Optimization (GEO) is about making your content *quotable* by those AI answers. AISiteVolt scores exactly that.
 
 
 ![The AI Visibility (GEO) screen with the trend chart](/img/screenshots/ai-visibility.png)
 ## Scan your posts
 
-1. Go to **Auto RepAI → AI Visibility**.
+1. Go to **AISiteVolt → AI Visibility**.
 2. Click **Load Posts**, then **Scan** per post (or **Scan All**).
 3. Each post gets a **0–100 score** with its missing pieces listed:
    - a quotable **direct-answer opening**,

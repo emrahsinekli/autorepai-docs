@@ -5,7 +5,7 @@ description: Turn a topic list into a queue of AI-written drafts with SEO metada
 
 # Bulk Content <span className="badge badge--free">FREE</span>
 
-**Auto RepAI → Bulk Content** produces a whole content calendar in one sitting: paste topics, get drafts.
+**AISiteVolt → Bulk Content** produces a whole content calendar in one sitting: paste topics, get drafts.
 
 
 ![The Bulk Content screen](/img/screenshots/bulk-content.png)

@@ -9,9 +9,9 @@ description: Create the llms.txt file that introduces your site and best content
 
 ## Generate it
 
-1. Go to **Auto RepAI → AI Visibility** and find the **llms.txt** card.
+1. Go to **AISiteVolt → AI Visibility** and find the **llms.txt** card.
 2. Click **Generate llms.txt**.
-3. Auto RepAI composes the file from your site name, tagline and top content, writes it to your site root, and shows the live URL (`https://yoursite.com/llms.txt`) with a preview.
+3. AISiteVolt composes the file from your site name, tagline and top content, writes it to your site root, and shows the live URL (`https://yoursite.com/llms.txt`) with a preview.
 
 If your hosting blocks writing to the site root, the preview is still shown — copy it into an `llms.txt` file manually via FTP or your host's file manager.
 

@@ -5,13 +5,13 @@ description: Score posts and pages against common WCAG 2.1 criteria relevant to 
 
 # Accessibility Repair <span className="badge badge--free">FREE scanner</span> <span className="badge badge--pro">PRO repair</span>
 
-The **European Accessibility Act (EAA)** and **WCAG 2.1** expect your content to be usable by everyone. Auto RepAI scores each post and page against the most common content-level problems — and Pro repairs the fixable ones with AI.
+The **European Accessibility Act (EAA)** and **WCAG 2.1** expect your content to be usable by everyone. AISiteVolt scores each post and page against the most common content-level problems — and Pro repairs the fixable ones with AI.
 
 
 ![The Accessibility Repair screen](/img/screenshots/accessibility.png)
 ## Scan (free)
 
-1. Go to **Auto RepAI → Accessibility Repair**.
+1. Go to **AISiteVolt → Accessibility Repair**.
 2. Click **Scan Posts & Pages**.
 3. Each item gets a **0–100 score** with its findings:
 

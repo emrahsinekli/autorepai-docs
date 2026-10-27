@@ -11,6 +11,7 @@ const sidebars = {
       items: [
         'getting-started/installation',
         'getting-started/api-keys',
+        'getting-started/local-ai',
         'getting-started/first-article',
         'getting-started/settings',
       ],
@@ -51,7 +52,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Auto RepAI Pro',
+      label: 'AISiteVolt Pro',
       items: [
         'pro/overview',
         'pro/providers',

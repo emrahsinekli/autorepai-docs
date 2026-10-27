@@ -1,14 +1,14 @@
 ﻿---
 title: Settings reference
-description: Every option on the Auto RepAI Settings screen explained — API keys, model selection, content defaults, usage statistics and advanced options.
+description: Every option on the AISiteVolt Settings screen explained — API keys, model selection, content defaults, usage statistics and advanced options.
 ---
 
 # Settings reference
 
-**Auto RepAI → Settings** has four tabs. Saving is instant (AJAX) — you'll see a success notice without a page reload.
+**AISiteVolt → Settings** has four tabs. Saving is instant (AJAX) — you'll see a success notice without a page reload.
 
 
-![Auto RepAI settings screen](/img/screenshots/settings.png)
+![AISiteVolt settings screen](/img/screenshots/settings.png)
 ## API Keys
 
 Provider keys, each with a **Test Connection** button. Free shows OpenAI; [Pro](/pro/providers) adds Anthropic, Google, OpenRouter, DeepSeek, Stability AI, Replicate, Leonardo and Reddit app credentials. Keys display masked after saving; an empty or masked field on save means *keep the stored key*.

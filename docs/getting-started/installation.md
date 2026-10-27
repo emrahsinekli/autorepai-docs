@@ -1,11 +1,11 @@
 ---
 title: Installation
-description: How to install the free Auto RepAI plugin from WordPress.org, activate it, and verify everything works — step by step, with system requirements.
+description: How to install the free AISiteVolt plugin from WordPress.org, activate it, and verify everything works — step by step, with system requirements.
 ---
 
 # Installation
 
-Auto RepAI installs like any WordPress plugin and takes about two minutes.
+AISiteVolt installs like any WordPress plugin and takes about two minutes.
 
 ## Requirements
 
@@ -19,9 +19,9 @@ Auto RepAI installs like any WordPress plugin and takes about two minutes.
 ## Install from the WordPress dashboard (recommended)
 
 1. In your WordPress admin, go to **Plugins → Add New Plugin**.
-2. Search for **"Auto RepAI"**.
+2. Search for **"AISiteVolt"**.
 3. Click **Install Now**, then **Activate**.
-4. A new **Auto RepAI** menu appears in your admin sidebar.
+4. A new **AISiteVolt** menu appears in your admin sidebar.
 
 ## Install by uploading the ZIP
 
@@ -31,7 +31,7 @@ Auto RepAI installs like any WordPress plugin and takes about two minutes.
 
 ## Verify the installation
 
-1. Click **Auto RepAI** in the admin sidebar — the **Dashboard** opens with usage stats (all zeros for now) and shortcuts to every tool.
+1. Click **AISiteVolt** in the admin sidebar — the **Dashboard** opens with usage stats (all zeros for now) and shortcuts to every tool.
 2. Continue to [Connect your API key](/getting-started/api-keys) — nothing generates until a key is saved.
 
 :::info Free vs Pro are the same plugin slug

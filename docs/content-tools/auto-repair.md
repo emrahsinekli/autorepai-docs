@@ -1,17 +1,17 @@
 ﻿---
-title: Auto Repair
+title: Content Repair
 description: Repair existing WordPress posts with AI — grammar, readability, SEO, structure, freshness scanning, full-page optimization, text-to-audio, and the in-editor repair panel.
 ---
 
-# Auto Repair <span className="badge badge--free">FREE</span>
+# Content Repair <span className="badge badge--free">FREE</span>
 
-Auto Repair is the heart of the plugin: instead of only writing *new* posts, it **fixes the ones you already have** — usually your fastest SEO win.
+Content Repair is the heart of the plugin: instead of only writing *new* posts, it **fixes the ones you already have** — usually your fastest SEO win.
 
 
-![The Auto Repair screen](/img/screenshots/auto-repair.png)
-## The Auto Repair screen
+![The Content Repair screen](/img/screenshots/auto-repair.png)
+## The Content Repair screen
 
-**Auto RepAI → Auto Repair** works on any published post or page:
+**AISiteVolt → Content Repair** works on any published post or page:
 
 1. **Pick posts** — load your content list and select what to repair.
 2. **Choose repair modes** — grammar & spelling, readability, SEO optimization, structure, engagement.
@@ -31,7 +31,7 @@ Open any post in the editor and scroll below the content: the **Full Page Optimi
 
 ## Page Repair with a source URL
 
-Give the panel a **source URL** and Auto RepAI fetches that page (from your server) and uses it as reference material while repairing — handy when repairing against documentation or a canonical source you trust.
+Give the panel a **source URL** and AISiteVolt fetches that page (from your server) and uses it as reference material while repairing — handy when repairing against documentation or a canonical source you trust.
 
 :::info At scale (Pro)
 Pro repairs content hands-free: the [AI Visibility autopilot](/pro/autopilots) fixes your weakest posts on a schedule and [Automations](/pro/automations) refreshes old content on rotation.

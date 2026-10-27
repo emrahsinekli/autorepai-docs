@@ -9,7 +9,7 @@ Five Pro tools turn *other media* into WordPress articles.
 
 ## YouTube to Blog
 
-1. **Auto RepAI → YouTube to Blog**, paste one or more YouTube URLs (one per line).
+1. **AISiteVolt → YouTube to Blog**, paste one or more YouTube URLs (one per line).
 2. The transcript is fetched and rewritten into a structured article — not a raw transcript dump.
 3. Review and create the draft. Great for repurposing your own channel into search traffic.
 
@@ -19,7 +19,7 @@ Upload a podcast episode or recording (MP3, WAV, M4A, OGG). Whisper transcribes 
 
 ## Reddit Research
 
-Enter a topic or a subreddit: Auto RepAI pulls the top discussions and writes an article informed by what real people actually ask and argue about — excellent for pain-point content. Add free [Reddit app credentials](/pro/providers#reddit-credentials) so it works reliably from server IPs.
+Enter a topic or a subreddit: AISiteVolt pulls the top discussions and writes an article informed by what real people actually ask and argue about — excellent for pain-point content. Add free [Reddit app credentials](/pro/providers#reddit-credentials) so it works reliably from server IPs.
 
 ## Multi-Source Generator
 

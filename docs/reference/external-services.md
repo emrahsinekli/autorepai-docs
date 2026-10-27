@@ -1,11 +1,11 @@
 ---
 title: External services & privacy
-description: Exactly which external services Auto RepAI connects to, what data is sent and when — OpenAI endpoints, Freemius, and the Pro providers. Your content never passes through Auto RepAI servers.
+description: Exactly which external services AISiteVolt connects to, what data is sent and when — OpenAI endpoints, Freemius, and the Pro providers. Your content never passes through AISiteVolt servers.
 ---
 
 # External services & privacy
 
-Auto RepAI is **bring-your-own-key**: AI requests go directly from your server to the provider you configured, on your own account. No content, prompt or key ever passes through Auto RepAI's servers. Nothing is sent anywhere without an explicit user action.
+AISiteVolt is **bring-your-own-key**: AI requests go directly from your server to the provider you configured, on your own account. No content, prompt or key ever passes through AISiteVolt's servers. Nothing is sent anywhere without an explicit user action.
 
 ## Free plugin
 
@@ -16,10 +16,10 @@ Auto RepAI is **bring-your-own-key**: AI requests go directly from your server t
 | `/v1/chat/completions` | You click Generate / Repair / Edit | Your prompt and the content being processed |
 | `/v1/images/generations` | Image generation | Your image prompt |
 | `/v1/images/edits` | Only when you supply a reference image | Prompt + the reference image |
-| `/v1/audio/speech` | Only when you enable "Convert to audio" in Auto Repair | The post title and content, for narration |
+| `/v1/audio/speech` | Only when you enable "Convert to audio" in Content Repair | The post title and content, for narration |
 | `/v1/models` | Only when you click "Test Connection" | Your API key (verification only) |
 
-When you give Auto Repair / Page Repair a **source URL**, your server fetches that page you typed — nothing else is sent in that step.
+When you give Content Repair / Page Repair a **source URL**, your server fetches that page you typed — nothing else is sent in that step.
 
 OpenAI: [privacy policy](https://openai.com/policies/privacy-policy) · [terms](https://openai.com/policies/terms-of-use)
 

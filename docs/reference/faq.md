@@ -1,6 +1,6 @@
 ---
 title: Frequently asked questions
-description: Answers to the most common Auto RepAI questions — costs, privacy, free vs Pro, providers, WooCommerce, GEO and more.
+description: Answers to the most common AISiteVolt questions — costs, privacy, free vs Pro, providers, WooCommerce, GEO and more.
 ---
 
 # Frequently asked questions
@@ -13,7 +13,7 @@ Yes. Every free feature is complete and uncapped. You pay only your AI provider 
 
 Typically a few cents with GPT-4o (less with GPT-4o Mini). Every run shows its exact token usage and estimated cost, and batch actions show an estimate **before** running.
 
-### Does my content pass through Auto RepAI's servers?
+### Does my content pass through AISiteVolt's servers?
 
 No. Prompts go **directly from your server to your AI provider**, billed to your own key. See [External services](/reference/external-services).
 
@@ -23,7 +23,7 @@ Every OpenAI text and image model — GPT-4o, the GPT-5.x family, GPT Image. Ope
 
 ### Will AI content hurt my SEO?
 
-Unedited, mass-published AI content can. Auto RepAI's philosophy is **repair + review**: ground generation in your facts, repair what exists, and always edit drafts. Google's guidance targets unhelpful content, not AI assistance per se.
+Unedited, mass-published AI content can. AISiteVolt's philosophy is **repair + review**: ground generation in your facts, repair what exists, and always edit drafts. Google's guidance targets unhelpful content, not AI assistance per se.
 
 ### What is GEO and why should I care?
 
@@ -51,4 +51,4 @@ Deleting the plugin removes all its tables, options, scheduled jobs and its own 
 
 ### Where do I get support?
 
-Email **support@autorepai.com**, or use the [WordPress.org support forum](https://wordpress.org/support/plugin/auto-repai-ai-content-generator/) for the free plugin.
+Email **support@aisitevolt.com**, or use the [WordPress.org support forum](https://wordpress.org/support/plugin/auto-repai-ai-content-generator/) for the free plugin.

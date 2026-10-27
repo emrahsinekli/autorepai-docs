@@ -5,13 +5,13 @@ description: Find products with thin descriptions, missing short descriptions an
 
 # WooCommerce AI <span className="badge badge--free">FREE scanner</span> <span className="badge badge--pro">PRO writer</span>
 
-Thin product descriptions lose twice: Google ranks them lower **and** AI shopping answers skip them. **Auto RepAI → WooCommerce AI** finds the problem and (with Pro) fixes it at catalog scale.
+Thin product descriptions lose twice: Google ranks them lower **and** AI shopping answers skip them. **AISiteVolt → WooCommerce AI** finds the problem and (with Pro) fixes it at catalog scale.
 
 
 ![The WooCommerce AI screen with the catalog autopilot](/img/screenshots/woo-ai.png)
 ## Scan your catalog (free)
 
-1. Go to **Auto RepAI → WooCommerce AI** (requires WooCommerce active).
+1. Go to **AISiteVolt → WooCommerce AI** (requires WooCommerce active).
 2. Click **Scan Products**.
 3. Every product is listed with its word count and issues:
    - description under 50 words,
@@ -35,7 +35,7 @@ The copy is **grounded in real product data** — SKU, price, stock status, weig
 
 ## Catalog autopilot <span className="badge badge--pro">PRO</span>
 
-Turn on the **catalog autopilot** and Auto RepAI keeps the catalog healthy hands-free:
+Turn on the **catalog autopilot** and AISiteVolt keeps the catalog healthy hands-free:
 
 1. Enable it on the WooCommerce AI page, choose **daily or weekly** and **products per run** (1–10).
 2. Each run finds products with thin content, rewrites them, and logs the activity on the page.

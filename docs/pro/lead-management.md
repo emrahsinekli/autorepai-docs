@@ -5,7 +5,7 @@ description: Every lead and support ticket from the chatbot and AI Forms in one 
 
 # Lead Management <span className="badge badge--pro">PRO</span>
 
-Everything your visitor-facing AI captures lands in **Auto RepAI → Lead Management**.
+Everything your visitor-facing AI captures lands in **AISiteVolt → Lead Management**.
 
 
 ![Lead Management](/img/screenshots/lead-management.png)
@@ -26,4 +26,4 @@ Browse full chatbot conversations — including anonymous ones that never became
 
 ## GDPR
 
-Auto RepAI hooks into WordPress's **Export Personal Data** and **Erase Personal Data** tools: a visitor's leads and chat history are included in both flows.
+AISiteVolt hooks into WordPress's **Export Personal Data** and **Erase Personal Data** tools: a visitor's leads and chat history are included in both flows.

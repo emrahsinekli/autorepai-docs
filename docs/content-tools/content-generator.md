@@ -5,7 +5,7 @@ description: Generate SEO-friendly blog posts, articles and product descriptions
 
 # Content Generator <span className="badge badge--free">FREE</span>
 
-**Auto RepAI → Content Generator** writes complete articles from a topic: title, structured headings, body copy and (optionally) SEO metadata.
+**AISiteVolt → Content Generator** writes complete articles from a topic: title, structured headings, body copy and (optionally) SEO metadata.
 
 
 ![The Content Generator screen](/img/screenshots/content-generator.png)
@@ -22,7 +22,7 @@ description: Generate SEO-friendly blog posts, articles and product descriptions
 
 ## Cost and history
 
-Each run reports tokens and estimated cost. Everything is logged to **Auto RepAI → History** with the prompt, result, model and cost, so you can reuse or audit past generations.
+Each run reports tokens and estimated cost. Everything is logged to **AISiteVolt → History** with the prompt, result, model and cost, so you can reuse or audit past generations.
 
 ## Tips for better articles
 

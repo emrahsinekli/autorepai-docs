@@ -11,7 +11,7 @@ The free [Health Report](/content-tools/health-report) becomes an **agency deliv
 ![White-label branding and report options](/img/screenshots/health-report.png)
 ## Set your branding once
 
-On **Auto RepAI → White-label Report**:
+On **AISiteVolt → White-label Report**:
 
 1. Enter your **agency name**, **logo URL** (upload to the media library and paste its address), **accent color** and **report footer** (e.g. *"Prepared by Acme Digital — hello@acme.agency"*).
 2. Click **Save branding**.

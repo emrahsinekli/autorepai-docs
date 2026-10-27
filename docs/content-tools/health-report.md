@@ -5,13 +5,13 @@ description: Generate an unlimited, printable website health report — GEO / AI
 
 # Health Report <span className="badge badge--free">FREE</span>
 
-**Auto RepAI → Health Report** compiles your site's GEO readiness and accessibility findings into a clean, printable report — perfect for stakeholders, clients or your own quarterly review. It's computed entirely on your site, unlimited, with no AI cost.
+**AISiteVolt → Health Report** compiles your site's GEO readiness and accessibility findings into a clean, printable report — perfect for stakeholders, clients or your own quarterly review. It's computed entirely on your site, unlimited, with no AI cost.
 
 
 ![A generated Health Report ready to print](/img/screenshots/health-report-doc.png)
 ## Generate a report
 
-1. Go to **Auto RepAI → Health Report**.
+1. Go to **AISiteVolt → Health Report**.
 2. Optionally enter **Prepared for** (a client or project name printed on the report).
 3. Pick the sections: **GEO / AI visibility** and **Accessibility (EAA / WCAG)**.
 4. Click **Generate report** — it opens in a new tab inside your dashboard.
@@ -24,7 +24,7 @@ description: Generate an unlimited, printable website health report — GEO / AI
 
 ## Pro: send it under YOUR brand <span className="badge badge--pro">PRO</span>
 
-[Auto RepAI Pro](/pro/reports-white-label) turns the Health Report into an agency deliverable:
+[AISiteVolt Pro](/pro/reports-white-label) turns the Health Report into an agency deliverable:
 
 - **White-label branding** — your agency name, logo, accent color and footer; no plugin branding anywhere on the printed sheet.
 - **EAA deep-dive template** — findings mapped to WCAG 2.1 success criteria with a remediation plan and per-page details.

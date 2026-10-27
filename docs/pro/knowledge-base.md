@@ -11,7 +11,7 @@ The Knowledge Base (KB) is how you stop AI from guessing. Whatever you put here 
 ![The Knowledge Base screen with bulk indexing](/img/screenshots/knowledge-base.png)
 ## Curated entries
 
-1. Go to **Auto RepAI → Knowledge Base**.
+1. Go to **AISiteVolt → Knowledge Base**.
 2. Add entries as title + content ("Shipping times", "Barista Pro 900 specs", "Return policy"…).
 3. That's it — the chatbot and generators pull the most relevant entries into every request.
 
@@ -21,7 +21,7 @@ Curated entries always win: they are your explicit facts.
 
 Beyond manual entries, Pro can index your **own posts and pages** as reference material:
 
-- **Per post** — in the editor, tick **"AI Reference"** in the Auto RepAI meta box; the post is chunked and embedded (OpenAI `text-embedding-3-small`) on save.
+- **Per post** — in the editor, tick **"AI Reference"** in the AISiteVolt meta box; the post is chunked and embedded (OpenAI `text-embedding-3-small`) on save.
 - **In bulk** — on the Knowledge Base page, select posts and click **Index selected posts** (with a cost preview; embeddings are very cheap).
 
 At question time, retrieval is **hybrid**: your curated KB entries first, then the most semantically relevant post chunks — with a relevance floor so an off-topic chunk never drowns out your explicit facts.
